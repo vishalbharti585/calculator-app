@@ -97,8 +97,8 @@ Chandigarh University
 
 ### Connect with Me
 
-* GitHub: github.com/vishalbharti585
-* LinkedIn: https://www.linkedin.com/in/vishal-bharti-652781289/?skipRedirect=true
+* GitHub: https://github.com/vishalbharti585
+* LinkedIn: https://www.linkedin.com/in/vishal-bharti-652781289/
 
 ## ⭐ Future Improvements
 
