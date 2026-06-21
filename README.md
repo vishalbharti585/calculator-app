@@ -6,10 +6,6 @@ A modern and responsive calculator built using **HTML, CSS, and JavaScript**. Th
 
 https://calculator-app-vwnh.onrender.com
 
-## 📸 Preview
-
-Add a screenshot of your calculator here.
-
 ## ✨ Features
 
 * Basic arithmetic operations
